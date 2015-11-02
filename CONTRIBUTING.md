@@ -1,5 +1,7 @@
 # Contributing to Node.js
 
+We'd like to contribute
+
 ## Issue Contributions
 
 When opening new issues or commenting on existing issues on this repository
